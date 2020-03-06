@@ -1,4 +1,5 @@
 Author: Sachin Kumar </br>
+------------------------------------------------------------------------------</br>
 This solution can - deploy 3 tier architecture which includes- </br>
   i) VPC </br>
   ii) Subnets in VPC </br>
